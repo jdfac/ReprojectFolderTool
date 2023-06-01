@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 23 14:46:45 2022
 
-@author: joefa
-"""
 # This script reprojects all feature classes in a target folder into
 # the spatial reference of the target dataset if the spatial references do
 # not already match
